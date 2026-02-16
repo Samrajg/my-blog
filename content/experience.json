@@ -1,0 +1,14 @@
+[
+  {
+    "company": "Pentagon Garments",
+    "role": "Software Developer Intern",
+    "period": "Dec 2024 – Feb 2025",
+    "description": "Built secure full-stack monitoring system with JWT auth and optimized dashboards."
+  },
+  {
+    "company": "Panith Innovations",
+    "role": "Machine Learning Intern",
+    "period": "May 2024 – Jun 2024",
+    "description": "Engineered predictive ML pipelines improving forecast accuracy by 23%."
+  }
+]
