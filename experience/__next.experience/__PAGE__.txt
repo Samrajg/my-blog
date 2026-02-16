@@ -1,0 +1,5 @@
+1:"$Sreact.fragment"
+2:I[97367,["/my-blog/_next/static/chunks/ff1a16fafef87110.js","/my-blog/_next/static/chunks/d2be314c3ece3fbe.js"],"OutletBoundary"]
+3:"$Sreact.suspense"
+0:{"buildId":"lqcTsFCl3CbJkGVDzcLjG","rsc":["$","$1","c",{"children":[[["$","h1",null,{"children":"Experience"}],[["$","div","0",{"children":[["$","h3",null,{"children":["Software Developer Intern"," – ","Pentagon Garments"]}],["$","p",null,{"children":"Dec 2024 – Feb 2025"}],["$","p",null,{"children":"Built secure full-stack monitoring system with JWT auth and optimized dashboards."}]]}],["$","div","1",{"children":[["$","h3",null,{"children":["Machine Learning Intern"," – ","Panith Innovations"]}],["$","p",null,{"children":"May 2024 – Jun 2024"}],["$","p",null,{"children":"Engineered predictive ML pipelines improving forecast accuracy by 23%."}]]}]]],null,["$","$L2",null,{"children":["$","$3",null,{"name":"Next.MetadataOutlet","children":"$@4"}]}]]}],"loading":null,"isPartial":false}
+4:null

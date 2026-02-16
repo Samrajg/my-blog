@@ -1,0 +1,5 @@
+1:"$Sreact.fragment"
+2:I[97367,["/my-blog/_next/static/chunks/ff1a16fafef87110.js","/my-blog/_next/static/chunks/d2be314c3ece3fbe.js"],"OutletBoundary"]
+3:"$Sreact.suspense"
+0:{"buildId":"lqcTsFCl3CbJkGVDzcLjG","rsc":["$","$1","c",{"children":[[["$","h1",null,{"children":"Achievements"}],["$","ul",null,{"children":[["$","li","0",{"children":"Delivered production SaaS system during Pentagon internship"}],["$","li","1",{"children":"FIDE-rated chess player ranked 15th at London Tournament"}],["$","li","2",{"children":"Second place in college public speaking contest"}]]}]],null,["$","$L2",null,{"children":["$","$3",null,{"name":"Next.MetadataOutlet","children":"$@4"}]}]]}],"loading":null,"isPartial":false}
+4:null

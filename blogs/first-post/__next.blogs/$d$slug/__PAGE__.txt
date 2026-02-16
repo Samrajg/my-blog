@@ -1,0 +1,5 @@
+1:"$Sreact.fragment"
+2:I[97367,["/my-blog/_next/static/chunks/ff1a16fafef87110.js","/my-blog/_next/static/chunks/d2be314c3ece3fbe.js"],"OutletBoundary"]
+3:"$Sreact.suspense"
+0:{"buildId":"lqcTsFCl3CbJkGVDzcLjG","rsc":["$","$1","c",{"children":[["$","article",null,{"style":{"whiteSpace":"pre-wrap"},"children":"# My First Blog\r\n\r\nWelcome to my blog!\r\n\r\nThis site is built using Next.js and GitHub Pages.\r\n"}],null,["$","$L2",null,{"children":["$","$3",null,{"name":"Next.MetadataOutlet","children":"$@4"}]}]]}],"loading":null,"isPartial":false}
+4:null
